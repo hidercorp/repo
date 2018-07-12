@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'cl56391_telegram';
+$dbn = 'shonicola';
 //имя сервера
-$dbh = 'localhost';
+$dbh = '	mysql.zzz.com.ua';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'cl56391_telegram';
+$dbu = 'shonicola';
 //пароль
-$dbp = 'qweqwe1233';
+$dbp = '1q2w3eQq';
 
   ob_start();
   session_name('sid');
