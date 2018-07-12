@@ -2,7 +2,7 @@
 //имя базы
 $dbn = 'shonicola';
 //имя сервера
-$dbh = '	mysql.zzz.com.ua';
+$dbh = 'mysql.zzz.com.ua';
 //порт
 $dbr = '3306';
 //имя пользователя
