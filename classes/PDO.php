@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'shonicola';
+$dbn = 'shonicol_bot';
 //имя сервера
-$dbh = 'mysql.zzz.com.ua';
+$dbh = '65.19.141.67';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'shonicola';
+$dbu = 'shonicol_admin';
 //пароль
-$dbp = '1q2w3eQq';
+$dbp = '1q2w3e';
 
   ob_start();
   session_name('sid');
